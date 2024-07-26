@@ -1,6 +1,6 @@
 #%% import
 
-file_src = 'C:/Users/JackC/OneDrive/ICTA/PN/ChannelSsa Buffers'
+file_src = 'YOUR FILE PATH'
 
 import xml.etree.ElementTree as ET
 import base64
@@ -12,7 +12,7 @@ import numpy as np
 tree = ET.parse(file_src)
 root = tree.getroot()
 
-# %% get datas of Trace_XShared & NoiseFloor_X
+# %% get datas of Trace_XShared & Y
 
 x_shared = []
 Y_mea = []
