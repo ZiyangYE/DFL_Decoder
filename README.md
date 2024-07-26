@@ -1,12 +1,20 @@
 # DFL_Decoder
 A small tool for decoding R&amp;S dfl files
 
-I measured my chip and saved the data in dfl.
-Then I went home.
-Ah, dfl files don't look that convenient to use.
-I don't want to go to the lab again (I hate going out)
-Ok, let's write a little tool to convert dsl files into readable data.
-The instrument I use is the R&S FSWP, and there are no plans to support other instruments.
+I measured my chip and saved the data in dfl. 
+
+Then I went home. 
+
+Ah, dfl files don't look that convenient to use. 
+
+I don't want to go to the lab again (I hate going out) 
+
+Ok, let's write a little tool to convert dsl files into readable data. 
+
+The instrument I use is the R&S FSWP, and there are no plans to support other instruments. 
+
+For confidentiality reasons, I cannot provide a test file.
+
 
 ## STEP 0
 A good compressed file manager can open .dfl files directly. 
