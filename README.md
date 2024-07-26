@@ -1,4 +1,4 @@
-# DFL_Decoder
+# DFL Decoder
 A small tool for decoding R&amp;S dfl files
 
 I measured my chip and saved the data in dfl. 
@@ -39,9 +39,8 @@ It's a xml file. Looks like
 ## STEP 2
 Change the path in the script, then run it. 
 
-I basically only used the built-in libraries of Python except numpy. It should be OK to use python3.11 with numpy. If there are any dependency issues, please solve them yourself.
+I only used very commonly used libraries. If there are any dependency issues, please solve them yourself.
 
 The output is named output.npy & output.csv .
 
-Please handle the horizontal and vertical axes yourself.
 
